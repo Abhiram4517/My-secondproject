@@ -25,9 +25,9 @@ Demonstrates request handling and response generation
 
 Basic MVC-style flow (View → JSP → Servlet)
 
-👤 Author
-Abhiram
-
 JSP acts as both presentation layer (frontend) and server-side logic (backend)
 
 JSP pages are automatically translated and compiled into Servlets by the web container (Tomcat)
+
+👤 Author
+Abhiram
